@@ -14,8 +14,13 @@ We use two approaches to achieve the classification task, the multi-view and the
 
 # Environments
 Pytorch (1.9.1)
+
 CUDAtoolkit (10.2.89)
+
 numpy (1.20.3)
+
 tqdm (4.62.2)
+
 time
+
 os
